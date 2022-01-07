@@ -47,7 +47,7 @@ See [^1]
 -----------------------------------------------------
 
 [^1]: How to update hillchart status:
-   add suffix `/` -  uphill - "figuring it out" / "de=risking"
-   add suffix `^` - on the top of the hill
-   add suffix `\` - downhil - "making it happen"
-   if you checked all the "must-have" tasks, remove the suffix.
+   add suffix `/` -  uphill - "figuring it out" / "de=risking" 
+   add suffix `^` - on the top of the hill 
+   add suffix `\` - downhil - "making it happen" 
+   if you checked all the "must-have" tasks, remove the suffix. 
